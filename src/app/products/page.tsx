@@ -13,7 +13,7 @@ export default function Products() {
       name: 'Premium Cotton Suit',
       category: 'cotton',
       price: 89.99,
-      image: '/images/n1.jpeg',
+      image: '/n1.jpeg',
       description: 'Elegant cotton suit with modern design',
     },
     {
@@ -21,7 +21,7 @@ export default function Products() {
       name: 'Luxury Lawn Collection',
       category: 'lawn',
       price: 129.99,
-      image: '/images/n2.jpeg',
+      image: '/n2.jpeg',
       description: 'Premium lawn fabric with intricate patterns',
     },
     {
@@ -29,7 +29,7 @@ export default function Products() {
       name: 'Summer Cotton Special',
       category: 'cotton',
       price: 79.99,
-      image: '/images/n3.jpeg',
+      image: '/n3.jpeg',
       description: 'Lightweight cotton for summer comfort',
     },
     {
@@ -37,7 +37,7 @@ export default function Products() {
       name: 'Designer Lawn Suit',
       category: 'lawn',
       price: 149.99,
-      image: '/images/n4.jpeg',
+      image: '/n4.jpeg',
       description: 'Exclusive designer lawn collection',
     },
     {
@@ -45,7 +45,7 @@ export default function Products() {
       name: 'Classic Cotton Wear',
       category: 'cotton',
       price: 99.99,
-      image: '/images/n5.jpeg',
+      image: '/n5.jpeg',
       description: 'Timeless cotton design for every occasion',
     },
     {
@@ -53,7 +53,7 @@ export default function Products() {
       name: 'Premium Lawn Ensemble',
       category: 'lawn',
       price: 159.99,
-      image: '/images/n6.jpeg',
+      image: '/n6.jpeg',
       description: 'Luxurious lawn suit with embroidery',
     },
   ]
